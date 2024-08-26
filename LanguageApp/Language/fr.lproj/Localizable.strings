@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  LanguageApp
+
+  Created by Merve Sena on 14.08.2024.
+  
+*/
+
+"Welcome to the App!" = "Bienvenue dans l'application!";
+"Home" = "Accueil";
+"Current Currency" = "Devise actuelle";
+"Go to Settings" = "Aller aux Paramètres";
+"Settings" = "Paramètres";
+"Language" = "Langue";
+"Currency" = "Devise";
+"Select Language & Currency" = "Sélectionnez la langue et la devise";
+"Continue" = "Continuer";
+"Back" = "Dos";
+

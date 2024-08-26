@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  LanguageApp
+
+  Created by Merve Sena on 14.08.2024.
+  
+*/
+
+"Welcome to the App!" = "Uygulamaya Hoş Geldiniz!";
+"Home" = "Ana Sayfa";
+"Current Currency" = "Güncel Para Birimi";
+"Go to Settings" = "Ayarlar";
+"Settings" = "Ayarlar";
+"Language" = "Dil";
+"Currency" = "Para Birimi";
+"Select Language & Currency" = "Dil ve Para Birimi Seçin";
+"Continue" = "Devam Et";
+"Back" = "Geri";
+

@@ -1,0 +1,12 @@
+/* 
+  FrenchLocalizable.strings
+  LanguageApp
+
+  Created by Merve Sena on 14.08.2024.
+  
+*/
+
+"Welcome to the App!" = "Bienvenue dans l'application!";
+"Home" = "Accueil";
+"Go to Settings" = "Aller aux Paramètres";
+"Settings" = "Paramètres";

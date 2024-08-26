@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  LanguageApp
+
+  Created by Merve Sena on 14.08.2024.
+  
+*/
+
+"Welcome to the App!" = "Welcome to the App!";
+"Home" = "Home";
+"Current Currency" = "Current Currency";
+"Go to Settings" = "Go to Settings";
+"Settings" = "Settings";
+"Language" = "Language";
+"Currency" = "Currency";
+"Back" = "Back";
+
+
+
+

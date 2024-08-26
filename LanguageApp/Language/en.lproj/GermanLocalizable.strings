@@ -1,0 +1,12 @@
+/* 
+  GermanLocalizable.strings
+  LanguageApp
+
+  Created by Merve Sena on 14.08.2024.
+  
+*/
+
+"Welcome to the App!" = "Willkommen in der App!";
+"Home" = "Startseite";
+"Go to Settings" = "Zu den Einstellungen";
+"Settings" = "Einstellungen";
