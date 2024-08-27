@@ -42,6 +42,7 @@ struct LanguageCurrencySelectionView: View {
                     .shadow(radius: 5)
                     .onChange(of: selectedLanguage) { newLanguage in
                         languageManager.updateLanguage()
+                        updateCurrencyForLanguage(newLanguage)
                     }
                 }
                 
@@ -90,6 +91,19 @@ struct LanguageCurrencySelectionView: View {
                            endPoint: .bottomTrailing)
                 .edgesIgnoringSafeArea(.all)
         )
+    }
+    
+    func updateCurrencyForLanguage(_ language: String) {
+        switch language {
+        case "tr":
+            selectedCurrency = "TRY"
+        case "en":
+            selectedCurrency = "USD"
+        case "de", "fr":
+            selectedCurrency = "EUR"
+        default:
+            selectedCurrency = "USD"
+        }
     }
 }
 
