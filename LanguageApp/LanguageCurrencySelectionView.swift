@@ -92,7 +92,7 @@ struct LanguageCurrencySelectionView: View {
                 .edgesIgnoringSafeArea(.all)
         )
     }
-    
+
     func updateCurrencyForLanguage(_ language: String) {
         switch language {
         case "tr":
